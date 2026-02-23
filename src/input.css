@@ -5,7 +5,14 @@ header {
 }
 .section-5 {
     background-image: url(../img.png/Group\ 10.png);
+    background-repeat: no-repeat;
+
 }
 .hero {
     background-image: url(/img.png/image\ 5.png);
+    background-repeat: no-repeat;
+}
+.page4 {
+background-image: url(/img.png/04\ 1.png);
+
 }
